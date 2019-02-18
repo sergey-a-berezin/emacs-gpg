@@ -17,4 +17,4 @@ Restart `emacs`. Now opening a file `*.asc` will cause it to be automatically de
 
 ## Known issues
 
-Decrypton currenly relies on `gpg`'s pop-up password prompt. It will not work in a terminal-only environment.
+Decryption currenly relies on `gpg`'s pop-up password prompt. It will not work in a terminal-only environment.
